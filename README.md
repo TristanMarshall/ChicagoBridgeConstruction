@@ -24,3 +24,5 @@
 * jQuery
 * Ruby
 * Sinatra
+
+###### This application was created by Tristan Marshall
