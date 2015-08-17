@@ -8,6 +8,7 @@
 
 ## The site includes 5 .erb pages:
 * Layout (layout.erb)
+
 ##### header:
 
 ![alt image](http://i.imgur.com/MQUBYWu.png)
